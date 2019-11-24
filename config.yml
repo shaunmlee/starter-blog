@@ -1,6 +1,6 @@
 title: "The Butler"
 baseline: "Your blogging assistant."
-description: "A ready to use static blog, powered by Cecil and Hyde."
+description: "Musings."
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
