@@ -15,5 +15,6 @@ Ideas to come in no order with no guarantee there'll ever be create:
 2. Exloring Naval's post on leverage and building wealth.
 3. Icy worlds and the increased chance of life's survival vs. living on the surface of a planet.
 4. Thoughts on FIRE and overpaying a mortgage alongside.
+5. What became of the netbook and the rise of the Chromebook.
 
 The list above will be updated I'm sure as more ideas come and potentially disappear.
